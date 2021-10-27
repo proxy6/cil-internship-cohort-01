@@ -6,8 +6,11 @@ Model-View-Controller (usually known as MVC) is a software design pattern common
 
 ![MVC Model](https://www.w3schools.in/wp-content/uploads/2019/03/MVC-Architecture.png?ezimgfmt=rs:511x294/rscb6/ng:webp/ngcb6)
 
- The diagram above shows the flow of data using in an MVC model.
+ The diagram above shows the flow of data in an MVC model.
  
- The traditional software design pattern works in an "Input - Process - Output" pattern whereas MVC works as "View-Controller-Model" approach. The View deals with the view or frontend of the application. The controller handles all the requests done on the view and gives a response back to the View. The Model works together with the database to fetch data required by the Controller.
+ The traditional software design pattern works in an "Input - Process - Output" pattern whereas MVC works as "View-Controller-Model" approach.
+ - The View deals with the view or frontend of the application. 
+ - The controller handles all the requests done on the view and gives a response back to the View.
+ - The Model works together with the database to fetch data required by the Controller.
 
  
