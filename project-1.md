@@ -4,7 +4,7 @@ Model-View-Controller (usually known as MVC) is a software design pattern common
     - View: The View element is used for presenting the data of the model to the user.
     - Controller: The Controller is in between the model and the view element. It listens to all the incident and actions triggered in the view and performs an appropriate response back to the events.
 
-!(https://www.w3schools.in/wp-content/uploads/2019/03/MVC-Architecture.png?ezimgfmt=rs:511x294/rscb6/ng:webp/ngcb6)
+![MVC Model](https://www.w3schools.in/wp-content/uploads/2019/03/MVC-Architecture.png?ezimgfmt=rs:511x294/rscb6/ng:webp/ngcb6)
 
  The diagram above shows the flow of data using in an MVC model.
  
