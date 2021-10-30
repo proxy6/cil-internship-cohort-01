@@ -1,4 +1,4 @@
-## Describe any layered process you are familiar with to the OSI model. 
+### Describe any layered process you are familiar with to the OSI model. 
 
 #### The TCP/IP Model.
 The TCP/IP model, or otherwise sometimes referred to as the internet protocol suite, is a set of communication protocols used for the majority of networks, for example, both the internet and private networks.
