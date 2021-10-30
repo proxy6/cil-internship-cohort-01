@@ -1,0 +1,1 @@
+Google maintains the IP addresses 8.8.8.8 and 8.8.4.4 as the primary and secondary DNS addresses for Google Public DNS. A network of DNS servers strategically located around the world support queries at these addresses.
