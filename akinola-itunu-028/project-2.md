@@ -1,15 +1,15 @@
-# What are the ip addresses for Google, Facebook and Tesla?
+### What are the ip addresses for Google, Facebook and Tesla?
  
 1. Google maintains the IP addresses 8.8.8.8 and 8.8.4.4 as the primary and secondary DNS 
 2. Facebook maintains the IP address 129.134.31.12
 3. While Tesla's IP address is  199.66.11.62
 
-# Breakdown the following RCF 1918 IPv4 address range into exactly 4 subnets with no address left over.
+### Breakdown the following RCF 1918 IPv4 address range into exactly 4 subnets with no address left over.
 1. 10.10.10.0
 2. 192.168.00
 3. 172.168.10
 
-### 10.10.10.0
+#### 10.10.10.0
 Address    10.10.10.0       00001010.00001010.00001010.00000000
 Network    0.0.0.0/4        00000000.00000000.00000000.00000000  Class A
 Broadcast  255.255.255.0    11111111.11111111.11111111.00000000

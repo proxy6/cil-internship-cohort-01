@@ -1,6 +1,6 @@
-# Describe any layered process you are familiar with to the OSI model. 
+## Describe any layered process you are familiar with to the OSI model. 
 
-### The TCP/IP Model.
+#### The TCP/IP Model.
 The TCP/IP model, or otherwise sometimes referred to as the internet protocol suite, is a set of communication protocols used for the majority of networks, for example, both the internet and private networks.
 The TCP/IP model is quite similar to the OSI model, the main difference between the two models is that the OSI model has seven layers, whereas the TCP/IP model has just four layers. The OSI model translates to the TCP/IP model as follows. 
 TCP/IP consists of four layers, not seven.
