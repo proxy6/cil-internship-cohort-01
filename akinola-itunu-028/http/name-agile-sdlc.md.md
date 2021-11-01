@@ -1,21 +1,17 @@
-### Describe the agile SDLC process with examples of at least 2 tools that can be used for each stage:
+### Describe Scrum and elaborate on it's benefits in software development:
 
-Software development life cycle (SDLC) is a phenomenon to design, develop and, test high-quality software. The primary aim of SDLC is to produce high-quality software that fulfills the customer requirement within times and cost estimates.
-
-Agile Software Development Life Cycle (SDLC) is the combination of both iterative and incremental process models. It focuses on process adaptability and customer satisfaction by rapid delivery of working software product. Agile SDLC breaks down the product into small incremental builds. These builds are provided into iterations.In the agile SDLC development process, the customer is able to see the result and understand whether he/she is satisfied with it or not. This is one of the advantages of the agile SDLC model. One of its disadvantages is the absence of defined requirements so, it is difficult to estimate the resources and development cost.
-
-###### Agile SDLC Process Flow
-1. Concept: Project are imagined and prioritized.
-2. Inception: Team members are created, funding is put in place, and basic environments and requirements are discussed.
-3. Iteration/Constriction: The software development team works to deliver working software. It is based on requirement and feedback.
-4. Release: Perform quality assurance (QA) testing, provides internal and external training, documentation development,  and final version of iteration into the product.
-5. Production: It is ongoing support of the software.
-
-###### Tools
-1. ActiveCollab: ActiveCollab is the project management tool that lets you setup agile processes and makes it effortless to plan and track your work. With its document management, budgeting, and invoices, it goes beyond project management whenever you have a need it. It is effortless to configure and setup custom statuses. It includes several project management features that let you plan and streamline development processes within your organization.
-2. Jira: JIRA software is by far the most popular agile tool for software teams. It was built for issue and bug tracking initially, but can be moulded to be used for software product development as well. Since JIRA software capabilities are nearly endless, it has become the default choice for most companies.
-3. Sprintly: Sprintly is an agile project management software that shows you what your team is working on and what they’ve finished. It makes it easy for startups and agencies to collaborate by giving them a full view of what the team is working on.
+Scrum is a framework that helps teams work together. Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.  It describes a set of meetings, tools, and roles that work in concert to help teams structure and manage their work.
 
 
+ Scrum is a framework for getting work done, The scrum framework is heuristic; it’s based on continuous learning and adjustment to fluctuating factors. It acknowledges that the team doesn’t know everything at the start of a project and will evolve through experience. Scrum is structured to help teams naturally adapt to changing conditions and user requirements, with re-prioritization built into the process and short release cycles so your team can constantly learn and improve.
+ Some of it's benefits in software developement are;
+ 1. Reduced risk; Scrum helps mitigate the risk of absolute project failure,
+ 2. Improved progress visibility and exposure; on scrum projects, every member of the project team has the opportunity to know how the project is going at any given time. Transparency and visibility make scrum an exposure model to help the project team accurately identify issues and more accurately predict how things will go as the project progresses. 
+ 3. Autonomy and empowerment; One of the great benefits of Scrum is the high degree of autonomy the team members acquire, encouraging and empowering them to perform increasingly complex tasks, thus distributing knowledge knowing that, if necessary, there is another member who is able to perform a certain task.
+ 4. Better quality; Projects exist to accomplish a vision or goal. Scrum provides the framework for continual feedback and exposure to make sure that quality is as high as possible. 
 
-
+ ###### Agile Manifesto:
+ 1. Individuals and interactions over processes and tools
+ 2. Working software over comprehensive documentation
+ 3. Customer collaboration over contract negotiation
+ 4. Responding to change over following a plan
