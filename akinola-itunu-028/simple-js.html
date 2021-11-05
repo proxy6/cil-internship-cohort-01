@@ -9,6 +9,9 @@
     <title>Document</title>
 </head>
 <body>
+    <li>
+        <ul id = "list"></ul>
+    </li>
     <!-- <div class="div-container">
 
     </div> -->
@@ -20,6 +23,20 @@
             console.log (response.data);
         })
         .catch (error => {console.log(error)})
+
+        .then(async response=>{
+        console.log(response.data)
+        let array = []
+        await array.push(response.data)
+        let ul = document.getElementById("list")
+        for (arrayElement of array) {
+            let li = document.createElement("li")
+            li.innerHTML = arrayElement
+            ol.appendChild(li)
+        }
+    })
+    
+        
 
     </SCript>
 </body>
