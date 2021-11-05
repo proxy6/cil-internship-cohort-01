@@ -25,5 +25,3 @@ This is also called the internet layer, it deals with packets and connects indep
 **4.	The physical layer:** 
 
 It consists of protocols that operate only to link the network component that interconnects nodes or hosts in the network. The protocols in this lowest layer include Ethernet for local area networks and ARP. It also consists of the media e.g. cable, fibre. It is also known as the network interface layer or data link layer. It is the combination of the physical layer and data link layer in the OSI model.
-
-gi
