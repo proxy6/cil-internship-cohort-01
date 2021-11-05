@@ -6,6 +6,7 @@
 <p>In Scrum software development,changes can be supported and integrated into a project currently in progress.</p>
 <p>In Scrum software decvelopment,there is greater customer/user satisfaction,because users are getting useable portions of completed product quicker.</p>
 </h1> Completing the Agile Manifesto </h1>
+<h2>Individuals and interactions over processes and tools</h2>
 <h2> working software over comprehensive documentation</h2>
 <h2>customer collaboration over contract negotiation</h2>
 <h2>responding to change over following a plan.</h2>
