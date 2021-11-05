@@ -36,3 +36,13 @@ User interface design fundamentals include
 * Credibility : The ability of the user to trust in the product 
 
 A good UI/UX  determines the success of a product in the market so consulting the user first,saves tons of time because users are the piority of every UI/UX designer.
+
+
+
+
+
+
+
+
+
+
