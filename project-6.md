@@ -5,7 +5,7 @@
 <p>In Scrum software development is faster, flexible and changeable during the life of the project and  after.</p>
 <p>In Scrum software development,changes can be supported and integrated into a project currently in progress.</p>
 <p>In Scrum software decvelopment,there is greater customer/user satisfaction,because users are getting useable portions of completed product quicker.</p>
-</h1> Completing the Agile Manifesto </h1>
+</h3> Completing the Agile Manifesto </h3>
 <h2>Individuals and interactions over processes and tools</h2>
 <h2> working software over comprehensive documentation</h2>
 <h2>customer collaboration over contract negotiation</h2>
