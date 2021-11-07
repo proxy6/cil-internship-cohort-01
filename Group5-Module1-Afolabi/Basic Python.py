@@ -9,7 +9,7 @@ def copy_and_resize(source_folder_with_file_name,destination_folder,target_image
     """
 
     ### resizing the image
-    source_folder_with_file = string
+    
     img = load_img(source_folder_with_file_name, grayscale=False ,target_size=target_image_size)
     img_array = img_to_array(img)
     save_img(source_folder_with_file_name, img_array)
