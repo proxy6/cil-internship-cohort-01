@@ -8,7 +8,7 @@ Customer collaboration over .....
 Responding to change over ......
 
 
-# ANSWERS
+# ANSWERSS
 
 SCRUM: Scrum is a framework that helps teams work together. Often thought of an agile project management framework, scrum describes a set of meeting tools, and roles that works in concert to help teams structure and manage their work. Scrum is working towards a solutions and incremental radiations.
 
