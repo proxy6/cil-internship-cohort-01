@@ -23,5 +23,5 @@ The TCP/IP Model is a layered structure similar to the OSI model and it has four
  
 * OSI follows vertical approach while TCP/IP models follows horizontal approach.
 * OSI layers have seven layers while TCP/IP layers have four layers.
-* OSI model, the transport layer is only connection-oriented while a layer of the TCP/IP model is both        connection-oriented and connectionless.
+* OSI model, the transport layer is only connection-oriented while a layer of the TCP/IP model is both connection-oriented and connectionless.
 
