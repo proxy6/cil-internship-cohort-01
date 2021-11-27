@@ -1,0 +1,7 @@
+credentials
+.terraform/*
+/lambda_1_function.zip
+/lambda_2_function.zip
+/lambda_3_function.zip
+/.terraform
+terraform.tfstate*
